@@ -17,7 +17,7 @@ Providing Security in DevOps (The Effort to strive for "Secure by Default")
 - [Other roadmaps](#-other-roadmaps)
 - [Wrap Up](#-wrap-up)
 - [Contributors](#contributors)
-- [Contribute](https://github.com/hahwul/DevSecOps/blob/main/CONTRIBUTING.md)
+- [Contribute](https://github.com/Lino-DC/DevSecOps/blob/main/CONTRIBUTING.md)
 
 ## 💭 Roadmap
 ![Roadmap](./DevSecOps.png)

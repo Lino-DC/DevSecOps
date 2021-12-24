@@ -1,3 +1,3 @@
 
 ## How to Contribute this
-Please read [Contributing](https://github.com/hahwul/DevSecOps/blob/main/CONTRIBUTING.md) document!
+Please read [Contributing](https://github.com/Lino-DC/DevSecOps/blob/main/CONTRIBUTING.md) document!
