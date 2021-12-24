@@ -12,7 +12,7 @@ Providing Security in DevOps (The Effort to strive for "Secure by Default")
   * [4. Build](#4-build)
   * [5. Test](#5-test)
   * [6. Deploy](#6-deploy)
-  * [7. Operate and Monitor](#7-operate-and-monitor)
+  * [7. Operations](#7-operations)
 - [Other roadmaps](#-other-roadmaps)
 - [Wrap Up](#-wrap-up)
 - [Contributors](#contributors)
@@ -33,7 +33,7 @@ Open https://github.com/Lino-DC/DevSecOps/blob/main/tools/README.md
     2. [Zero to DevSecOps (OWASP Meetup)](https://owasp.org/www-chapter-belgium/assets/2019/2019-02-20/Zero-to-DevSecOps-OWASP-Meetup-02-19-19.pdf)
     3. [DevSecOps What Why And How (BlackHat USA-19)](https://i.blackhat.com/USA-19/Thursday/us-19-Shrivastava-DevSecOps-What-Why-And-How.pdf)
     4. [DevSecOps – Security and Test Automation (Mitre)](https://www.mitre.org/sites/default/files/publications/pr-19-0769-devsecops_security_test_automation-briefing.pdf)
-#### 1.1 What is DevSecOps    
+### 1.1 What is DevSecOps    
 ### 2. Design
   - Development Lifecycle
     1. [SDL(Secure Development Lifecycle) by Microsoft](https://www.microsoft.com/en-us/securityengineering/sdl/practices)
@@ -69,13 +69,13 @@ Open https://github.com/Lino-DC/DevSecOps/blob/main/tools/README.md
     1. [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
   - Security Scanning
     1. [Best practices for scanning images (docker)](https://docs.docker.com/develop/scan-images/)
-### 7. Operate and Monitor
+### 7. Operations
   - RASP(Run-time Application Security Protection)
     1. [Runtime Application Self-Protection by rapid7](https://www.rapid7.com/fundamentals/runtime-application-self-protection/)
     2. [Jumpstarting your devsecops - Pipeline with IAST and RASP](https://2018.appsec.eu/presos/DevOps_Jumpstarting-Your-DevSecOps_Jeff-Williams_AppSecEU2018.pdf)
-  - Security Patch
-  - Security Audit
-  - Security Monitor
+  - Security Patching
+  - Security Auditing
+  - Security Continous Monitoring
   - Security Analysis
 
 ## 🚀 Other roadmaps
@@ -86,4 +86,4 @@ Open https://github.com/Lino-DC/DevSecOps/blob/main/tools/README.md
 | The DevSecOps Security Checklist | Gitlab security devops diagram | 
 
 ## 🙏🏼 Wrap Up
-If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+#If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, #I will continue to improve this, so you might want to star this repository to revisit.
