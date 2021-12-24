@@ -31,8 +31,8 @@ Open https://github.com/Lino-DC/DevSecOps/blob/main/tools/README.md
   - Overview
     1. [DevSecOps in Wikipedia](https://en.wikipedia.org/wiki/DevOps#DevSecOps,_Shifting_Security_Left)
     2. [Zero to DevSecOps (OWASP Meetup)](https://owasp.org/www-chapter-belgium/assets/2019/2019-02-20/Zero-to-DevSecOps-OWASP-Meetup-02-19-19.pdf)
-    3. [DevSecOps What Why And How (BlackHat USA-19)](https://i.blackhat.com/USA-19/Thursday/us-19-Shrivastava-DevSecOps-What-Why-And-How.pdf)
-    4. [DevSecOps – Security and Test Automation (Mitre)](https://www.mitre.org/sites/default/files/publications/pr-19-0769-devsecops_security_test_automation-briefing.pdf)
+    <!-- 3. [DevSecOps What Why And How (BlackHat USA-19)](https://i.blackhat.com/USA-19/Thursday/us-19-Shrivastava-DevSecOps-What-Why-And-How.pdf)
+    4. [DevSecOps – Security and Test Automation (Mitre)](https://www.mitre.org/sites/default/files/publications/pr-19-0769-devsecops_security_test_automation-briefing.pdf) -->
 ### 1.1 What is DevSecOps    
 ### 2. Design
   - Development Lifecycle
@@ -78,7 +78,7 @@ Open https://github.com/Lino-DC/DevSecOps/blob/main/tools/README.md
   - Security Continous Monitoring
   - Security Analysis
 
-## 🚀 Other roadmaps
+<!-- ## 🚀 Other roadmaps
 | ![](/assets/dod.png) | ![](/assets/LarryMaccherone.jpg) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |   U.S. Department of Defense           | Larry Maccherone                                       |
@@ -86,4 +86,4 @@ Open https://github.com/Lino-DC/DevSecOps/blob/main/tools/README.md
 | The DevSecOps Security Checklist | Gitlab security devops diagram | 
 
 ## 🙏🏼 Wrap Up
-#If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, #I will continue to improve this, so you might want to star this repository to revisit.
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit. -->
