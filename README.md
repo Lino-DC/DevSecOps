@@ -1,7 +1,7 @@
 # DevSecops
 Providing Security in DevOps (The Effort to strive for "Secure by Default")
 
-./DevOps-and-DevSecOps.jpg
+(./DevOps-and-DevSecOps.jpg)
 
 ## 📜 Table of Contents
 - [Roadmap](#-roadmap)
