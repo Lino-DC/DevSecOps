@@ -1,14 +1,13 @@
 # DevSecOps
 Providing Security in DevOps (The Effort to strive for "Secure by Default")
 
-![TestImage](./DevOps-and-DevSecOps.jpg)
+![HeaderImage](./DevOps-and-DevSecOps.jpg)
 
 ## 📜 Table of Contents
 - [Roadmap](#-roadmap)
 - [Tools](#-tools)
 - [Resources](#resources)
   * [1. DevSecOps Overview](#1-devsecops-overview)
-    * [1.1 What is DevSecOps](#1.1-what-is-devsecops)
   * [2. Design](#2-design)
   * [3. Develop](#3-develop)
   * [4. Build](#4-build)
@@ -24,7 +23,7 @@ Providing Security in DevOps (The Effort to strive for "Secure by Default")
 ![Roadmap](./DevSecOps.png)
 
 ## 🔩 Tools 
-Spending a lot of time on applying DevSecOps is searching, comparing, and making decisions about tools. These tool lists are a good way to help you reduce unnecessary time and apply them quickly :sunglasses:
+Spending the time on applying DevSecOps searching, comparing, and making decisions about tools can be daunting. The tools listed here is a good starting point to help and assist and reduce unnecessary time and apply them quickly :sunglasses:
 
 Open https://github.com/Lino-DC/DevSecOps/blob/main/tools/README.md
 

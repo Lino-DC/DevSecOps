@@ -1,12 +1,12 @@
 ## TOC
-- [Why collect the tools?](#why-collect-the-tools-)
-- [List of Tool](#list-of-tool)
-- [How to Contribute this](#how-to-contribute-this)
+- [Why collect these tools?](#why-collect-these-tools-)
+- [List of Tools](#list-of-tools)
+- [How to Contribute to this](#how-to-contribute-to-this)
 
-## Why collect the tools?
-Spending a lot of time on applying DevSecOps is searching, comparing, and making decisions about tools. These tool lists are a good way to help you reduce unnecessary time and apply them quickly 😎
+## Why collect these tools?
+Spending the time on applying DevSecOps searching, comparing, and making decisions about tools can be daunting. The tools listed here is a good starting point to help and assist and reduce unnecessary time and apply them quickly 😎
 
-## List of Tool
+## List of Tools
 | Type | Name | Description | Popularity | Language |
 | ---------- | :---------- | :----------: | :----------: | :----------: | 
 | Build/SAST  | [SonarQube](https://www.sonarqube.org/) |  SonarQube is an open-source platform for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages.|![](https://img.shields.io/static/v1?label=&message=it's%20not%20github&color=gray)|![](https://img.shields.io/static/v1?label=&message=it's%20not%20github&color=gray)
@@ -31,5 +31,5 @@ Spending a lot of time on applying DevSecOps is searching, comparing, and making
 | Test/PENTEST | [monkey](https://github.com/guardicore/monkey) | Infection Monkey - An automated pentest tool | ![](https://img.shields.io/github/stars/guardicore/monkey) | ![](https://img.shields.io/github/languages/top/guardicore/monkey) |
 | Test/PENTEST | [ptf](https://github.com/trustedsec/ptf) | The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools. | ![](https://img.shields.io/github/stars/trustedsec/ptf) | ![](https://img.shields.io/github/languages/top/trustedsec/ptf) |
 
-## How to Contribute this
-Please read [Contributing](https://github.com/hahwul/DevSecOps/blob/main/CONTRIBUTING.md) document!
+## How to Contribute to this
+<!-- Please read [Contributing](https://github.com/hahwul/DevSecOps/blob/main/CONTRIBUTING.md) document! -->
