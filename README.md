@@ -23,7 +23,7 @@ Providing Security in DevOps (The Effort to strive for "Secure by Default")
 ![Roadmap](./DevSecOps.png)
 
 ## 🔩 Tools 
-Spending the time on applying DevSecOps searching, comparing, and making decisions about tools can be daunting. The tools listed here is a good starting point to help and assist and reduce unnecessary time and apply them quickly :sunglasses:
+Spending the time on applying DevSecOps searching, comparing, and making decisions about tools can be daunting. The tools listed here is a good starting point to help and assist and reduce unnecessary time and to apply them quickly :sunglasses:
 
 Open https://github.com/Lino-DC/DevSecOps/blob/main/tools/README.md
 
