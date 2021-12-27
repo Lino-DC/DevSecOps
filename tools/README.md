@@ -3,7 +3,7 @@
 - [List of Tools](#list-of-tools)
 - [How to Contribute to this](#how-to-contribute-to-this)
 
-## Why do collect these tools?
+## Why collect these tools?
 Spending the time on applying DevSecOps searching, comparing, and making decisions about tools can be daunting. The tools listed here is a good starting point to help and assist and reduce unnecessary time and to apply them quickly 😎
 
 ## List of Tools
