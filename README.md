@@ -74,7 +74,7 @@ Open https://github.com/Lino-DC/DevSecOps/blob/main/tools/README.md
   - Security Monitor
   - Security Analysis
 
-## 🚀 Other roadmaps and devsecops infortmation
+## 🚀 Other roadmaps and devsecops information
 | ![](/assets/dod.png) | ![](/assets/LarryMaccherone.jpg) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |   U.S. Department of Defense           | Larry Maccherone                                       |
