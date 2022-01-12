@@ -14,9 +14,8 @@ Providing Security in DevOps (The Effort to strive for "Secure by Default")
   * [5. Test](#5-test)
   * [6. Deploy](#6-deploy)
   * [7. Operations](#7-operations)
-- [Other roadmaps](#-other-roadmaps)
-- [Wrap Up](#-wrap-up)
-- [Contributors](#contributors)
+- [Other roadmaps and devsecops infortmation](#-other-roadmaps-and-devsecops-information)
+- [Wrapping things Up](#-wrapping-things-up)
 - [Contribute](https://github.com/Lino-DC/DevSecOps/blob/main/CONTRIBUTING.md)
 
 ## 💭 Roadmap
@@ -74,3 +73,13 @@ Open https://github.com/Lino-DC/DevSecOps/blob/main/tools/README.md
   - Security Audit
   - Security Monitor
   - Security Analysis
+
+## 🚀 Other roadmaps and devsecops infortmation
+| ![](/assets/dod.png) | ![](/assets/LarryMaccherone.jpg) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|   U.S. Department of Defense           | Larry Maccherone                                       |
+| [![](https://i.imgur.com/pQXVOzS.png)](https://assets.sqreen.com/whitepapers/devsecops-security-checklist.pdf) | ![](https://about.gitlab.com/images/secure/security-diagram.svg) | 
+| The DevSecOps Security Checklist | Gitlab security devops diagram | 
+
+## 🙏🏼 Wrapping things Up
+This is a work in progress roadmap for all to use, it can be improved as time goes on, but the main idea behind this is to help guide you through your Devops journey embracing security from anywhere within your current pipeline.
