@@ -43,4 +43,4 @@ Spending a lot of time on applying DevSecOps is searching, comparing, and making
 | Test/PENTEST | [ptf](https://github.com/trustedsec/ptf) | The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools. | ![](https://img.shields.io/github/stars/trustedsec/ptf) | ![](https://img.shields.io/github/languages/top/trustedsec/ptf) |
 
 ## Want to Contribute
-Please read [Contributing](https://github.com/Lino-DC/DevSecOps/blob/main/CONTRIBUTING.md) document!
+Please read the [Contributing](https://github.com/Lino-DC/DevSecOps/blob/main/CONTRIBUTING.md) document!
