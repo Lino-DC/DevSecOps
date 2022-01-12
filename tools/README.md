@@ -1,7 +1,8 @@
 ## TOC
-- [Why collect the tools?](#why-collect-the-tools-)
-- [List of Tool](#list-of-tool)
-- [How to Contribute this](#how-to-contribute-this)
+- [Why collect these tools?](#why-collect-these-tools-)
+- [List of Tools](#list-of-tools)
+- [Want to Contribute](#Want-to-Contribute)
+
 
 ## Why collect the tools?
 Spending a lot of time on applying DevSecOps is searching, comparing, and making decisions about tools. These tool lists are a good way to help you reduce unnecessary time and apply them quickly 😎
@@ -32,5 +33,5 @@ Spending a lot of time on applying DevSecOps is searching, comparing, and making
 | Test/PENTEST | [monkey](https://github.com/guardicore/monkey) | Infection Monkey - An automated pentest tool | ![](https://img.shields.io/github/stars/guardicore/monkey) | ![](https://img.shields.io/github/languages/top/guardicore/monkey) |
 | Test/PENTEST | [ptf](https://github.com/trustedsec/ptf) | The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools. | ![](https://img.shields.io/github/stars/trustedsec/ptf) | ![](https://img.shields.io/github/languages/top/trustedsec/ptf) |
 
-## How to Contribute this
+## Want to Contribute
 Please read [Contributing](https://github.com/Lino-DC/DevSecOps/blob/main/CONTRIBUTING.md) document!
