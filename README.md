@@ -14,7 +14,7 @@ Providing Security in DevOps (The Effort to strive for "Secure by Default")
   * [5. Test](#5-test)
   * [6. Deploy](#6-deploy)
   * [7. Operations](#7-operations)
-- [Other roadmaps and devsecops infortmation](#-other-roadmaps-and-devsecops-information)
+- [Other roadmaps and devsecops information](#-other-roadmaps-and-devsecops-information)
 - [Wrapping things Up](#-wrapping-things-up)
 - [Contribute](https://github.com/Lino-DC/DevSecOps/blob/main/CONTRIBUTING.md)
 
