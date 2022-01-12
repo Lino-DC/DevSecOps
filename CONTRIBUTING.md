@@ -14,7 +14,7 @@
 6. Make and Send PR(Pull Request)
 
 ## Add contents in README
-Please add content and send us PR!
+Please add content and send us the PR!
 1. fork this repo
 2. Edit contents from forked repo
 3. Make and Send PR(Pull Request)
