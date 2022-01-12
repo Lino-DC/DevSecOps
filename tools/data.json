@@ -40,9 +40,9 @@
   "Type": "Build"
  },
  "kube-hunter": {
-  "Type": "Operate and Monitor",
   "Data": "| Operate and Monitor/K8S | [kube-hunter](https://github.com/aquasecurity/kube-hunter) | Hunt for security weaknesses in Kubernetes clusters | ![](https://img.shields.io/github/stars/aquasecurity/kube-hunter) | ![](https://img.shields.io/github/languages/top/aquasecurity/kube-hunter) |",
-  "Method": "K8S"
+  "Method": "K8S",
+  "Type": "Operate and Monitor"
  },
  "metasploit-framework": {
   "Data": "| Test/PENTEST | [metasploit-framework](https://github.com/rapid7/metasploit-framework) | Metasploit Framework | ![](https://img.shields.io/github/stars/rapid7/metasploit-framework) | ![](https://img.shields.io/github/languages/top/rapid7/metasploit-framework) |",
@@ -93,6 +93,11 @@
   "Data": "| Design/THREAT | [threagile](https://github.com/Threagile/threagile) | Agile Threat Modeling Toolkit | ![](https://img.shields.io/github/stars/Threagile/threagile) | ![](https://img.shields.io/github/languages/top/Threagile/threagile) |",
   "Method": "THREAT",
   "Type": "Design"
+ },
+ "truffleHog": {
+  "Type": "Build",
+  "Data": "| Build/SAST | [truffleHog](https://github.com/trufflesecurity/truffleHog) | Searches through git repositories for high entropy strings and secrets, digging deep into commit history | ![](https://img.shields.io/github/stars/trufflesecurity/truffleHog) | ![](https://img.shields.io/github/languages/top/trufflesecurity/truffleHog) |",
+  "Method": "SAST"
  },
  "vault-action": {
   "Data": "| Build/SECRET-MANAGE | [vault-action](https://github.com/hashicorp/vault-action) | A GitHub Action that simplifies using HashiCorp Vault ™ secrets as build variables. | ![](https://img.shields.io/github/stars/hashicorp/vault-action) | ![](https://img.shields.io/github/languages/top/hashicorp/vault-action) |",
