@@ -1,11 +1,56 @@
 {
+"Synk": {
+        "Data": "| Build/SAST/DAST/SCA  | [Synk](https://snyk.io/) |  Snyk (pronounced sneak) is a developer security platform for securing code, dependencies, containers, and infrastructure as code.|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
+        "Method": "SAST",
+        "Type": "Build/Test"
+       },
+"Lacework": {
+        "Data": "| Build/Behavior Analysis & Machine Learning/Security Applications  | [Lacework](https://www.lacework.com/) | Lacework is the data-driven security platform for the cloud. The Lacework Cloud Security Platform, powered by Polygraph, automates cloud security at scale so our customers can innovate with speed and safety. Polygraph is the only security solution that can collect, analyze and accurately correlate data across an organization’s AWS, Azure, GCP, and Kubernetes environments, and narrow it down to the handful of security events that matter.|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
+        "Method": "Build/Behavior Analysis & Machine Learning",
+        "Type": "Build/Analysis/ML"
+       },
+"VeraCode": {
+        "Data": "| Build/SAST/DAST/SCA  | [VeraCode](https://www.veracode.com/) |  Veracode empowers organizations to confidently develop software by reducing the risk of security breach through comprehensive analysis, developer enablement, and AppSec governance..|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
+        "Method": "SAST/DAST/SCA",
+        "Type": "Build/SAST/DAST/SCA"
+       },     
+"Checkmarx": {
+        "Data": "| Build/SAST  | [Checkmarx](https://checkmarx.com/) |  Checkmarx Provides highly accurate, flexible automatic scans of uncompiled source code, enabling organizations to identify hundreds of potential security vulnerabilities in the most common coding languages and frameworks.|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
+        "Method": "SAST",
+        "Type": "Build"
+       },       
+"Secure Code Warrior": {
+        "Data": "Build/SAST  | [Secure Code Warrior](https://www.securecodewarrior.com/) |  Secure Code Warrior makes secure coding a positive and engaging experience for developers as they increase their software security skills.|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
+        "Method": "SAST",
+        "Type": "Build"
+       },
+"SecurFlag": {
+        "Data": "Training Platform  | [SecurFlag](https://www.secureflag.com/index.html) |  SecureFlag provides a powerful yet user-friendly way for enterprises to strengthen their secure coding practices. Developers learn secure coding at their own pace with updated examples and hands-on practice that improves their competency and prepares the organization to confidently achieve its business goals.|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
+        "Method": "Training",
+        "Type": "Training"
+       },
+"Rapid7": {
+        "Data": "DAST/XDR/SIEM  | [Rapid7](https://www.rapid7.com/) |  The Rapid7 Insight Platform collects data from across your environment, making it easy for teams to manage vulnerabilities, monitor for malicious behavior, investigate and shut down attacks, and automate your operations.|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
+        "Method": "DAST/XDR/SIEM",
+        "Type": "Build/DAST"
+       },  
+"Palo Alto Prisma": {
+        "Data": "CNAPP/CSPM  | [Palo Alto Prisma](https://www.paloaltonetworks.com/prisma/cloud) |  Prisma Cloud leverages cloud service provider APIs to provide visibility and control over public cloud environments while extending security to hosts, containers and serverless functions with a single, unified agent framework. With support for hybrid and multi-cloud environments, this is comprehensive cloud native security.|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
+        "Method": "CNAPP/CSPM",
+        "Type": "Build/CPSM"
+       },    
+"ARMada": {
+        "Data": "RBVM/ASOC  | [ARMada](https://risksense.com/) |  RiskSense®, Inc. provides vulnerability management and remediation prioritization to measure and control cybersecurity risk. The cloud-based RiskSense platform delivers Risk-Based Vulnerability Management, Application Security Orchestration and Correlation.|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
+        "Method": "RBVM/ASOC",
+        "Type": "Build/ASOC"
+       },                
  "SonarQube": {
   "Data": "| Build/SAST  | [SonarQube](https://www.sonarqube.org/) |  SonarQube is an open-source platform for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages.|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
   "Method": "SAST",
   "Type": "Build"
  },
   "Dependabot": {
-    "Data": "| Build/SAST  | [Dependabot](https://docs.github.com/en/code-security/supply-chain-security/managing-vulnerabilities-in-your-projects-dependencies/about-dependabot-security-updates) |  Dependabot can fix vulnerable dependencies for you by raising pull requests with security updates.|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
+    "Data": "| Build/SCA  | [Dependabot](https://docs.github.com/en/code-security/supply-chain-security/managing-vulnerabilities-in-your-projects-dependencies/about-dependabot-security-updates) |  Dependabot can fix vulnerable dependencies for you by raising pull requests with security updates.|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
     "Method": "SCA",
     "Type": "Build"
  },
