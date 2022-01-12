@@ -4,6 +4,11 @@
   "Method": "SAST",
   "Type": "Build"
  },
+  "Dependabot": {
+    "Data": "| Build/SAST  | [Dependabot](https://docs.github.com/en/code-security/supply-chain-security/managing-vulnerabilities-in-your-projects-dependencies/about-dependabot-security-updates) |  Dependabot can fix vulnerable dependencies for you by raising pull requests with security updates.|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
+    "Method": "SCA",
+    "Type": "Build"
+ },
  "action-baseline": {
   "Data": "| Test/DAST | [action-baseline](https://github.com/zaproxy/action-baseline) | A GitHub Action for running the OWASP ZAP Baseline scan | ![](https://img.shields.io/github/stars/zaproxy/action-baseline) | ![](https://img.shields.io/github/languages/top/zaproxy/action-baseline) |",
   "Method": "DAST",
