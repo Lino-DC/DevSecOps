@@ -66,7 +66,7 @@ Open https://github.com/Lino-DC/DevSecOps/blob/main/tools/README.md
     3. [DAST using pdiscoveryio Nuclei (github action)](https://github.com/secopslab/nuclei-action)
   - Penetration testing
     1. [Penetration Testing at DevSecOps Speed](https://securityboulevard.com/2019/04/penetration-testing-at-devsecops-speed/)
-  - DAST 
+  - IAST 
 ### 6. Deploy
   - Security Hardening & Config
     1. [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
