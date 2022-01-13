@@ -42,6 +42,7 @@ Open https://github.com/Lino-DC/DevSecOps/blob/main/tools/README.md
     3. [Application Threat Modeling by OWASP](https://owasp.org/www-community/Application_Threat_Modeling)
     4. [Agile Threat Modeling Toolkit](https://threagile.io)
     5. [OWASP Threat Dragon](https://threatdragon.github.io)
+  - Policies  
 ### 3. Develop
   - Secure Coding
     1. [Secure coding guide by Apple](https://developer.apple.com/library/archive/documentation/Security/Conceptual/SecureCodingGuide/Introduction.html)
@@ -49,10 +50,15 @@ Open https://github.com/Lino-DC/DevSecOps/blob/main/tools/README.md
     3. [Go-SCP / Go programming language secure coding practices guide](https://github.com/OWASP/Go-SCP)
     4. [Android App security best practices by Google](https://developer.android.com/topic/security/best-practices)
     5. [Securing Rails Applications](https://guides.rubyonrails.org/security.html)
+  - Code Authentication
+  - IDE Security Plugins
 ### 4. Build  
   - SAST(Static Application Security Testing)
     1. [Scan Source Code using Static Application Security Testing (SAST) with SonarQube, Part 1](https://medium.com/nycdev/scan-your-source-code-for-vulnerabilities-using-static-application-security-testing-sast-with-5f8ee1fdf9aa)
     2. [Announcing third-party code scanning tools: static analysis & developer security training](https://github.blog/2020-10-05-announcing-third-party-code-scanning-tools-static-analysis-and-developer-security-training/)
+  - Dependency Management
+  - SCA
+  - IAST
 ### 5. Test
   - DAST(Dynamic Application Security Testing)
     1. [Dynamic Application Security Testing with ZAP and GitHub Actions](https://www.zaproxy.org/blog/2020-05-15-dynamic-application-security-testing-with-zap-and-github-actions/) 
@@ -60,6 +66,7 @@ Open https://github.com/Lino-DC/DevSecOps/blob/main/tools/README.md
     3. [DAST using pdiscoveryio Nuclei (github action)](https://github.com/secopslab/nuclei-action)
   - Penetration testing
     1. [Penetration Testing at DevSecOps Speed](https://securityboulevard.com/2019/04/penetration-testing-at-devsecops-speed/)
+  - DAST 
 ### 6. Deploy
   - Security Hardening & Config
     1. [CIS Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
@@ -69,10 +76,11 @@ Open https://github.com/Lino-DC/DevSecOps/blob/main/tools/README.md
   - RASP(Run-time Application Security Protection)
     1. [Runtime Application Self-Protection by rapid7](https://www.rapid7.com/fundamentals/runtime-application-self-protection/)
     2. [Jumpstarting your devsecops - Pipeline with IAST and RASP](https://2018.appsec.eu/presos/DevOps_Jumpstarting-Your-DevSecOps_Jeff-Williams_AppSecEU2018.pdf)
-  - Security Patch
+  - Security Patching
   - Security Audit
-  - Security Monitor
+  - Security Monitoring
   - Security Analysis
+  - Pentesting
 
 ## 🚀 Other roadmaps and devsecops information
 | ![](/assets/dod.png) | ![](/assets/LarryMaccherone.jpg) |
