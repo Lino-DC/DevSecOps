@@ -1,9 +1,9 @@
 {
-"Synk": {
+"Sammwise": {
         "Data": "| Planning/Governance/Assessment   | [sammwise](https://github.com/owaspsamm/sammwise) |  The mission of OWASP Software Assurance Maturity Model (SAMM) is to be the prime maturity model for software assurance that provides an effective and measurable way for all types of organizations to analyze and improve their software security posture.|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
         "Method": "Assessment ",
         "Type": "Planning/Governance"
-               },
+        },
 "Synk": {
         "Data": "| Build/SAST/DAST/SCA  | [Synk](https://snyk.io/) |  Snyk (pronounced sneak) is a developer security platform for securing code, dependencies, containers, and infrastructure as code.|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)|![](https://img.shields.io/static/v1?label=\u0026message=it's%20not%20github\u0026color=gray)",
         "Method": "SAST",
