@@ -91,3 +91,5 @@ Open https://github.com/Lino-DC/DevSecOps/blob/main/tools/README.md
 
 ## 🙏🏼 Wrapping things Up
 This is a work in progress roadmap for all to use, it can be improved as time goes on, but the main idea behind this is to help guide you through your Devops journey embracing security from anywhere within your current pipeline.
+
+If you wish to learn more about SDLC (Software Development Lifecycle) and SSDLC (Secure Software Development Lifecycle) then visit [SSDLC](https://github.com/Lino-DC/SDLC)
